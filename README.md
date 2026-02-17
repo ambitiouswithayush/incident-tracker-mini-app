@@ -213,3 +213,10 @@ http://localhost:5000/api/incidents
 
 Ayush Kumar
 
+
+
+
+<img width="831" height="802" alt="Screenshot 2026-02-17 at 4 35 45 PM" src="https://github.com/user-attachments/assets/4597e294-7df3-4cf9-977e-19bd44724a7c" />
+
+<img width="1329" height="746" alt="Screenshot 2026-02-17 at 4 36 00 PM" src="https://github.com/user-attachments/assets/6c2d690e-fce4-4b99-9f5a-77e5fc41743f" />
+
